@@ -17,7 +17,7 @@
 ```objc
 [HHGStatusBarHUD showMessage:@"测试图片"];
 ```
-## 隐藏
+## 隐藏（网页更改）
 ```objc
 [HHGStatusBarHUD hide];
 ```
